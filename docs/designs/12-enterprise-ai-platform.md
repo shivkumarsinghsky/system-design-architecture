@@ -5,7 +5,7 @@
 
 **Author:** Shiv Kumar · [GitHub](https://github.com/shivkumarsinghsky) ·
 Deep dives with runnable code: [rag-enterprise-assistant](https://github.com/shivkumarsinghsky/rag-enterprise-assistant) ·
-[enterprise-ai-agent-plateform](https://github.com/shivkumarsinghsky/enterprise-ai-agent-plateform)
+[enterprise-ai-agent-platform](https://github.com/shivkumarsinghsky/enterprise-ai-agent-platform)
 
 ## Requirements
 

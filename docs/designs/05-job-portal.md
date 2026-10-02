@@ -4,7 +4,7 @@
 > tracking products. It is not a description of any company's internal architecture.
 
 **Author:** Shiv Kumar · [GitHub](https://github.com/shivkumarsinghsky) ·
-Deep dive with runnable code: [job_portal](https://github.com/shivkumarsinghsky/job_portal)
+Deep dive with runnable code: [job-portal-platform](https://github.com/shivkumarsinghsky/job-portal-platform)
 
 ## Requirements
 

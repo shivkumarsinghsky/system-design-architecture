@@ -4,7 +4,7 @@
 > It is not a description of any company's internal architecture.
 
 **Author:** Shiv Kumar · [GitHub](https://github.com/shivkumarsinghsky) ·
-Deep dive with runnable feed code: [socilmedia_platform](https://github.com/shivkumarsinghsky/socilmedia_platform)
+Deep dive with runnable feed code: [social-media-platform](https://github.com/shivkumarsinghsky/social-media-platform)
 
 ## Requirements
 

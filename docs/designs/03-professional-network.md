@@ -4,7 +4,7 @@
 > It is not a description of any company's internal architecture.
 
 **Author:** Shiv Kumar · [GitHub](https://github.com/shivkumarsinghsky) ·
-Related deep dive: [socilmedia_platform](https://github.com/shivkumarsinghsky/socilmedia_platform)
+Related deep dive: [social-media-platform](https://github.com/shivkumarsinghsky/social-media-platform)
 
 ## Requirements
 

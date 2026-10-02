@@ -183,14 +183,14 @@ Not implemented yet:
 
 Deep dives with runnable reference implementations of several designs:
 
-- [Enterprise SaaS Platform](https://github.com/shivkumarsinghsky/enterprise-saas-plateform) — design 11
-- [Enterprise AI Agent Platform](https://github.com/shivkumarsinghsky/enterprise-ai-agent-plateform) — design 12
+- [Enterprise SaaS Platform](https://github.com/shivkumarsinghsky/enterprise-saas-platform) — design 11
+- [Enterprise AI Agent Platform](https://github.com/shivkumarsinghsky/enterprise-ai-agent-platform) — design 12
 - [RAG Enterprise Assistant](https://github.com/shivkumarsinghsky/rag-enterprise-assistant) — design 12
 - [Real-Time Monitoring Platform](https://github.com/shivkumarsinghsky/realtime-monitoring-platform) — design 09
-- [Video Sharing Platform](https://github.com/shivkumarsinghsky/youtub_plateform) — design 01
-- [Real-Time Messaging Platform](https://github.com/shivkumarsinghsky/whatsapp_platform) — design 02
-- [Social Media Platform](https://github.com/shivkumarsinghsky/socilmedia_platform) — designs 03 and 04
-- [Job Portal](https://github.com/shivkumarsinghsky/job_portal) — design 05
+- [Video Sharing Platform](https://github.com/shivkumarsinghsky/video-streaming-platform) — design 01
+- [Real-Time Messaging Platform](https://github.com/shivkumarsinghsky/realtime-messaging-platform) — design 02
+- [Social Media Platform](https://github.com/shivkumarsinghsky/social-media-platform) — designs 03 and 04
+- [Job Portal](https://github.com/shivkumarsinghsky/job-portal-platform) — design 05
 - [Microservices Patterns](https://github.com/shivkumarsinghsky/microservices-patterns) — pattern catalogue used throughout
 - [Event-Driven Platform](https://github.com/shivkumarsinghsky/event-driven-platform) — messaging, retries, DLQ, idempotency
 - [EAM Platform Architecture](https://github.com/shivkumarsinghsky/eam-platform-architecture) — enterprise asset management domain

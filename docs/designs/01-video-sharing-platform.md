@@ -4,7 +4,7 @@
 > It is not a description of any company's internal architecture.
 
 **Author:** Shiv Kumar · [GitHub](https://github.com/shivkumarsinghsky) ·
-Deep dive with runnable code: [youtub_plateform](https://github.com/shivkumarsinghsky/youtub_plateform)
+Deep dive with runnable code: [video-streaming-platform](https://github.com/shivkumarsinghsky/video-streaming-platform)
 
 ## Requirements
 

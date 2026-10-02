@@ -3,7 +3,7 @@
 > Reference system design for a B2B SaaS product serving many organisations from shared infrastructure.
 
 **Author:** Shiv Kumar · [GitHub](https://github.com/shivkumarsinghsky) ·
-Deep dive with runnable code: [enterprise-saas-plateform](https://github.com/shivkumarsinghsky/enterprise-saas-plateform)
+Deep dive with runnable code: [enterprise-saas-platform](https://github.com/shivkumarsinghsky/enterprise-saas-platform)
 
 ## Requirements
 
@@ -227,4 +227,4 @@ erDiagram
 | Tenant-partitioned events | Per-tenant ordering, blast-radius control | Hot tenants create hot partitions |
 
 Related: [Enterprise AI Platform](12-enterprise-ai-platform.md) · [E-Commerce](10-e-commerce.md) ·
-[enterprise-saas-plateform](https://github.com/shivkumarsinghsky/enterprise-saas-plateform)
+[enterprise-saas-platform](https://github.com/shivkumarsinghsky/enterprise-saas-platform)

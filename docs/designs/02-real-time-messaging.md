@@ -4,7 +4,7 @@
 > It is not a description of any company's internal architecture.
 
 **Author:** Shiv Kumar · [GitHub](https://github.com/shivkumarsinghsky) ·
-Deep dive with runnable code: [whatsapp_platform](https://github.com/shivkumarsinghsky/whatsapp_platform)
+Deep dive with runnable code: [realtime-messaging-platform](https://github.com/shivkumarsinghsky/realtime-messaging-platform)
 
 ## Requirements
 
