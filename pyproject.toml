@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "system-design-capacity"
+version = "0.1.0"
+description = "Back-of-the-envelope capacity estimation used by the system-design-architecture knowledge base"
+authors = [{ name = "Shiv Kumar" }]
+license = { text = "MIT" }
+requires-python = ">=3.10"
+
+[project.scripts]
+capacity = "capacity.__main__:main"
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.5"]
+
+[tool.pytest.ini_options]
+pythonpath = ["tools"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+extend-exclude = ["*.md"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.setuptools]
+package-dir = { "" = "tools" }
+packages = ["capacity"]

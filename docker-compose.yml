@@ -1,0 +1,8 @@
+# Capacity estimator as a one-off container (no long-running services in this repository).
+#   docker compose run --rm capacity                  # list scenarios
+#   docker compose run --rm capacity messaging        # print one capacity table
+services:
+  capacity:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
